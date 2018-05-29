@@ -3,7 +3,7 @@ youtube-good-bad
 Overview
 
 ## Description
-youtubeでチャンネルを検索し、そのチャンネルの動画すべてを高評価 or 低評価していく
+youtubeでチャンネルを検索し、そのチャンネルの動画すべてを高評価 or 低評価していく  
 
 ## Demo
 ![good-bad](https://github.com/yuh105/youtube-good-bad/blob/media/media/2.gif)
@@ -30,6 +30,7 @@ youtube.pyの10行目、11行目の
 ```PASSWORD = '' ```  
 を編集してください。
 
+seleniumも必要になります。  
 python3で実行できます。  
 
 
