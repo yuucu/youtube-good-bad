@@ -7,8 +7,8 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
 DRIVER_PATH = './chromedriver'
-USER = 'kibidango222'
-PASSWORD = '5t39je6c'
+USER = 'your_youtube_id'
+PASSWORD = 'your_youtue_password'
 
 def move_to_youtube():
     browser.get('http://www.youtube.com')
